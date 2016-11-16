@@ -1,0 +1,56 @@
+/*站内导航条*/
+.mainnav ul{ margin-top: 2px; background-color: #ededed; margin-left: 12px;}
+.mainnav ul li a{ margin:0 8px; color: #000;}
+.mainnav ul li img{ margin-top: -2px;}
+
+.mainSelect{ border-top: 2px solid #333;padding-top: 22px; margin-top: 8px;;}
+
+/*左边内容区*/
+.mainSelectleft{ width: 728px; height: 842px; background: #f6f6f6;margin-bottom: 12px;}
+
+.searchtext{height: 30px;width: 598px; border: 2px solid #666; line-height: 30px;padding-left: 8px;margin-top: 19px;margin-left: 20px;}
+.searchbtn{ width: 74px; height: 34px; background: #333; color: white;margin-top:19px;}
+
+/*搜索内容*/
+.searchmsg p{ margin-left: 20px;}
+.msgtitle a{ font-size: 24px; color: #0381d6;margin-top: 34px;margin-bottom: 15px;display: block;}
+.msgtime{ display: block;width: 684px;color: #666; font-size: 12px;border-bottom: 1px solid #c5c5c5; padding-bottom: 20px; margin-bottom: 12px; letter-spacing: 1px}
+.msg{ line-height: 24px; color: #888;}
+/*右边SubNav*/
+
+.mainSelectrightTitle{width: 252px; height: 36px; line-height: 36px; background: #333;color: white;font-size: 16px; padding-left: 8px;}
+.mainSelectrightUl1{ width: 260px;padding: 7px 0 17px;background: #eaeaea;}
+.mainSelectrightUl1 li a.Agreenclass{ background: #1f9400; border: 1px solid #1f9400; color: white;}
+.mainSelectrightUl1 li a{display: block; width: 38px;height: 24px; background: #eee; border: 1px solid #e4e4e4;border-radius:2px; line-height: 24px; text-align: center; margin-right:3px; margin-left: 8px;color: #888;margin-top: 10px;}
+
+.mainSelectrightP{ display: block;font-size: 14px; width: 235px;height: 14px;padding: 17px 0 11px 25px; background: url("../images/searchrighticon_.jpg")no-repeat 8px 19px #eaeaea;}
+.mainSelectrightUl2{ width: 234px;padding: 0 0 5px 26px;background: #eaeaea;}
+.mainSelectrightUl2 li a{display: block;width: 40px; height: 26px; border-radius:2px;color:black;line-height: 26px;text-align: center;}
+.mainSelectrightUl2 li a.Agreenclass2{background: #1f9400; color: white;}
+.UlpaddingBottom{ padding-bottom: 18px;}
+.DivmarginTop{margin-top: 12px;}
+
+.instrumenticonUl{width: 260px;background: #eaeaea;height: 377px; padding-top: 2px;}
+.instrumenticonUl li a{display: block;width: 46px;height: 28px;border: 1px solid #ded9d9; line-height: 28px;color: #333;padding-left: 27px;margin-left: 10px; margin-top: 10px;}
+.instrumenticon1{background: url("../images/instrumenticon01.png") no-repeat ;}
+.instrumenticon2{background: url("../images/instrumenticon02.png") no-repeat ;}
+.instrumenticon3{background: url("../images/instrumenticon03.png") no-repeat ;}
+.instrumenticon4{background: url("../images/instrumenticon04.png") no-repeat ;}
+.instrumenticon5{background: url("../images/instrumenticon05.png") no-repeat ;}
+.instrumenticon6{background: url("../images/instrumenticon06.png") no-repeat ;}
+.instrumenticon7{background: url("../images/instrumenticon07.png") no-repeat ;}
+.instrumenticon8{background: url("../images/instrumenticon08.png") no-repeat ;}
+.instrumenticon9{background: url("../images/instrumenticon09.png") no-repeat ;}
+.instrumenticonUl li a.Aredclass{background-color: #cc0000; color:white;}
+
+
+
+
+
+
+
+
+
+
+
+

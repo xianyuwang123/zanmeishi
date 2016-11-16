@@ -1,0 +1,73 @@
+/*通用样式*/
+.backgroundwhite{ background-color: white}
+.main{margin-top: 22px;}
+.border1{border: 1px solid #000;}
+.article{ width: 746px; margin-bottom: 12px;}
+.aside{ width: 238px; margin-bottom: 12px;}
+h3{ line-height: 40px; margin-left: 10px; font-size: 16px;}
+.border2{border-bottom: 1px solid #e5e5e5;}
+/*banner和右侧区域*/
+.Memberlogin{ width: 220px; margin: 0 auto; border-bottom: 1px #e5e5e5 solid; padding-bottom: 10px; margin-bottom: 10px;}
+.Memberlogin a{ width: 105px; height: 38px; text-align: center; line-height: 38px; background-color: #e75606; color: white; font-size: 14px;}
+.aside1Nav{ margin-bottom: 8px;}
+.aside1Nav li a{ width: 99px; height: 30px;  padding-left:6px; line-height: 30px; background-color: #ebebeb; display: block; margin-left: 10px; margin-bottom: 1px;color: black;font-size:12px;}
+.aside1tips{ border-top:1px solid #7d7d7d; margin-top:9px; padding-top:7px; padding-bottom: 7px; background-color: #f0f0f0; padding-left:10px;}
+.aside1tips p{ line-height: 18px;}
+.aside1tips span{ color: #10a500;}
+
+/*内容第二区域*/
+.article2MainLeft{height: 403px;}
+.article2MainLeft div{height: 35px; width: 360px;background-color: #efefef;color: #006600;font-size: 16px; line-height: 35px; padding-left: 7px;font-weight: bold;}
+.article2MainRight{height: 403px; margin-left: 11px;}
+.article2MainRightTitle{height: 35px; width: 361px;background-color: #efefef;color: #006600;font-size: 16px; line-height: 35px; padding-left: 7px;font-weight: bold;}
+.article2MainLeft ul{ padding-left: 9px;}
+.article2MainLeft ul li { height: 36px; width: 326px; line-height: 36px;padding-left: 24px; }
+.article2MainLeft ul li a{color: #333;}
+.article2MainLeft ul li a span{ color: #b6b6b6; }
+.article2MainRight ul{ padding-left: 9px;}
+.article2MainLefticon1{ background: url("../images/article2MainIcon01.png")no-repeat 0px 10px;}
+.article2MainLefticon2{ background: url("../images/article2MainIcon02.png")no-repeat 0px 10px;}
+
+/*第二区域左边*/
+.additemiconall1{  margin-right:12px; margin-top: 4px;}
+.additemiconall2{  margin-right:7px; margin-top: 4px;}
+.article2MainRight ul li { height: 36px; width: 350px; line-height: 36px;; position: relative; }
+.article2MainRight ul li div a{color: #333; margin-left: 26px;}
+.article2MainRight ul li div a b{color: #b6b6b6; font-weight: normal; position: absolute;left: 228px;}
+.article2MainRight ul li div span{margin-left: 2px; position: absolute}
+.spangreenbg{display: block; height:18px; width: 18px; background: #259b24;border-radius: 2px; color: white; line-height: 18px;text-align: center;position: absolute;left: -2px; top: 9px;}
+.additem{background:url("../images/additemicon.png")no-repeat; width: 18px; height: 18px; position: absolute;left: 334px;top:9px;}
+
+/*第二区域右边*/
+.aside2{height: 403px;}
+.aside2tab{ width: 119px;height: 34px; text-align: center;line-height: 34px;font-size: 16px; font-weight: bold;border-bottom: 1px solid #e5e5e5;}
+.aside2tabclass{ background: #e5e5e5;color: #006600;}
+.aside2text li { height: 36px; width: 229px; line-height: 36px;; position: relative; margin-left: 9px; }
+.aside2text li a{color: #333; margin-left: 26px;}
+.aside2text li a b{color: #b6b6b6; font-weight: normal; position: absolute;left: 168px;}
+.aside2text li span{margin-left: 2px; position: absolute}
+
+/*第三区域左边*/
+.article3MainLeft{height: 403px;}
+.article3MainLeft div{height: 35px; width: 739px;background-color: #efefef;color: #006600;font-size: 16px; line-height: 35px; padding-left: 7px;font-weight: bold;}
+.article3MainLeft ul li {height: 36px; line-height: 36px; width: 354px;float: left; padding-left: 9px;margin-right: 20px;}
+.article3MainLeft ul .clearmarginright{margin-right: 0px;}
+.article3MainLeft ul li a{color: black;}
+.article3MainLeft ul li a span{ color:#999;margin-right: 4px;}
+
+/*第三区域右边*/
+.aside3Title{ width: 230px;height: 34px;line-height: 34px;font-size: 16px;color: #006600; font-weight: bold;border-bottom: 1px solid #e5e5e5; padding-left: 8px;}
+.aside3PClass{ font-size: 14px; font-weight: bold;margin-left:9px; color: #006600;}
+.aside3P1margin{ margin-top: 13px;margin-bottom: 10px;}
+.aside3P2margin{ margin-top: 18px;margin-bottom: 16px;}
+.aside3P3margin{ margin-top: 14px;margin-bottom: 16px;}
+.aside3UlClass{ margin-left: 9px;}
+.aside3UlClass li a{ line-height: 24px; width: 76px;height: 24px; display: block;color: #333;}
+
+
+/*第四区域*/
+.linksClass{ line-height: 30px;font-size: 16px;color: #006600; font-weight: bold;margin-left: 10px;margin-bottom: 5px;}
+.linksUlClass{height: 54px; display: block;}
+.linksUlClass li{margin-left: 10px;margin-right: 5px; line-height: 18px;}
+.linksUlClass li a{ color: #a1a1a1;font-weight: bold;}
+

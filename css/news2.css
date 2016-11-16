@@ -1,0 +1,48 @@
+/*站内导航条*/
+.mainnav ul{ margin-top: 2px; background-color: #ededed; margin-left: 12px;}
+.mainnav ul li a{ margin:0 8px; color: #000;}
+.mainnav ul li img{ margin-top: -2px;}
+
+.mainSelect{ border-top: 2px solid #333;padding-top: 22px; margin-top: 8px;;}
+
+/*左边内容区*/
+.mainSelectleft{ width: 714px;margin-bottom: 12px;}
+.mainSelectleft{margin-top: 8px; padding: 7px 7px 59px 7px;border-bottom: 1px solid #d6d6d6;}
+h3{ line-height: 54px; height: 54px; display: block ;width: 728px; border-bottom: 1px solid #dfdfdf;font-size: 18px; text-align: center;}
+h4{ line-height: 44px; height: 44px;;font-size: 12px; text-align: center;color: #999;font-weight: normal; margin-bottom: 25px;}
+.mainSelectleft p{ line-height: 20px; text-indent: 2em;}
+.mainSelectleft p span{margin-top: 20px;display: inline-block;}
+
+
+.pageto {width: 700px;height: 58px;padding-top:22px;  }
+.prev{width: 63px; height: 30px; line-height: 30px; color: #fff;border-radius:2px;background-color: #009900;}
+.next{width: 63px; height: 30px; line-height: 30px; color: #fff;border-radius:2px;background-color: #009900;margin-left: 57px;}
+.pageto p{margin-top: 8px;margin-left: 8px;}
+.pageto p a{ color: #000000;}
+/*搜索内容*/
+.searchmsg p{ margin-left: 20px;}
+.msgtitle a{ font-size: 24px; color: #0381d6;margin-top: 34px;margin-bottom: 15px;display: block;}
+.msgtime{ display: block;width: 684px;color: #666; font-size: 12px;border-bottom: 1px solid #c5c5c5; padding-bottom: 20px; margin-bottom: 12px; letter-spacing: 1px}
+.msg{ line-height: 24px; color: #888;}
+/*右边SubNav*/
+
+.mainSelectrightTitle{width: 252px; height: 36px; line-height: 36px; background: #333;color: white;font-size: 16px; padding-left: 8px;}
+.mainSelectrightUl1{ width: 244px;padding:0px 8px 18px;background: #eaeaea;}
+.mainSelectrightUl1 li {padding-top: 18px;}
+.mainSelectrightUl1 li a{margin-left: 8px; color: #333;}
+.mainSelectrightUl1 li span{ width: 18px; height: 18px; display: inline-block; line-height: 18px; text-align: center; border-radius: 2px;}
+.mainSelectrightUl1 li span.greenclass{background-color:#259b24;color: #fff; }
+.DivmarginTop{margin-top: 12px;}
+
+.mainSelectrightUl2{ width: 244px;padding:17px 8px 9px;background: #eaeaea;}
+.mainSelectrightUl2 li a{color: #0044b5;display:block;width: 244px; margin-left: 2px;}
+.mainSelectrightUl2 li a img{margin-bottom: 14px;}
+.mainSelectrightUl2 span{ color: #333; margin-left: 2px;display:block;margin-top: 6px; margin-bottom: 14px;}
+
+
+
+
+
+
+
+

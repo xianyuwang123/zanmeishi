@@ -1,0 +1,64 @@
+/*通用样式*/
+body, h1, h2, h3, h4, h5, h6, hr, p, blockquote,dl, dt, dd, ul, ol, li,pre,fieldset,button,input,textarea,th,td{margin:0;padding: 0;}
+body,button, input, select, textarea {font: 12px/1 Tahoma, Helvetica, Arial, "\5b8b\4f53", sans-serif;}
+h1 { font-size: 18px;}
+h2 { font-size: 16px;}
+h3 { font-size: 14px;}
+h4, h5, h6 { font-size: 100%; }
+address, cite, dfn, em, var { font-style: normal; }
+code, kbd, pre, samp, tt { font-family: "Courier New", Courier, monospace; }
+small { font-size: 12px; }
+ul, ol { list-style: none; }
+a { text-decoration: none; }
+a:hover { text-decoration: none; }
+abbr[title], acronym[title] {border-bottom: 1px dotted;cursor: help;  }
+q:before, q:after { content: ''; }
+legend { color: #000; }
+fieldset, img { border: none; }
+button, input, select, textarea {font-size: 100%;}
+input{ outline: none;border: none}
+table {border-collapse: collapse;border-spacing: 0;  }
+hr{border: none;height: 1px;  }
+html{ overflow-y: scroll; }
+
+.clear{ clear: both;}
+.clearfix:after{content: ""; display: block;height:0;clear: both;font-size:0;*zoom:1;}
+body{font-family: 微软雅黑;background: url("../images/headerbg2.png") repeat-x}
+.inner{ width: 1000px; margin:0 auto;}
+.fl{float: left;}
+.fr{float: right;}
+
+.white{color: white;}
+.draw{color:#666}
+.licolor{color:#6b6b6b; display: block;font-family:Arial; font-size:8px; -webkit-transform:scale(0.6);margin-top:3px;}
+
+/*头部样式*/
+.header{ background: url("../images/headerbg.png") repeat-x; height: 185px;height: 184px \9;}
+.headerP{color:#6b6b6b; margin-top: 9px;}
+.headerTop ul li{ margin:7px 8px 0px}
+.headerLiMargin{ margin-left: 13px;}
+
+.headerTop{ height: 40px;}
+.headerMain{ height: 94px;}
+
+.search{width: 318px; height: 30px; border: 2px solid #666; padding-left: 8px; margin-top: 34px; line-height: 30px}
+.searchbtn{width: 74px; height: 34px;background-color:#333; color: white; font-size: 12px; margin-top: 34px; }
+.headerMain img{ margin-right: 296px;}
+
+.headerMain ul{ margin-top: 6px;}
+.headerMain ul li{ margin-right:8px}
+.headerMain ul li a{color: #333}
+.headerMain ul .clearmarginright{ margin-right:0;}
+
+.headerfeet ul{ background-color: #333333; width: 1000px;display: block; height: 40px;border-top: 2px solid #ececec}
+.headerfeet ul li a{ width: 100px; height: 28px; display: block; text-align: center;padding-top: 12px;}
+.headerfeet ul li a:hover{position: relative; background-color: #414141;border-top: 2px solid #23a700;margin-top:-2px}
+.headerfeethoverli{position: relative; background-color: #414141;border-top: 2px solid #23a700;margin-top:-2px}
+.headernavbg{ height: 9px; background: url("../images/navbg.png") no-repeat;}
+
+/*尾部样式*/
+
+.footerSubNav{ height: 30px; background-color: #333333;}
+.footerSubNav ul{ display: block; margin:0 auto;width: 440px;}
+.footerSubNav ul li{ margin-right:14px; line-height: 30px}
+.footerP{ line-height: 22px; color: #343434; margin-left: 18px; margin-top: 18px; margin-bottom: 51px;letter-spacing:0.2px}

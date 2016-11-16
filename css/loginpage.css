@@ -1,0 +1,21 @@
+body{ background: none;}
+
+.login{ background:#2fa100; height: 299px;border-bottom: 1px solid #176d00;}
+.login .inner img { margin-top: 134px; margin-left: 229px;}
+.logintitle{ background: #333; width: 822px; height: 73px; margin:0 auto; }
+.logintitle p{ font-size: 24px;color: #d8d8d8; line-height: 72px; margin-left: 24px; }
+.logintitle span{ font-size: 14px;}
+
+.login2 .inner{ height: 446px;}
+.form{ width: 822px; margin:0 auto;background: #f1f1f1;height: 296px; border-bottom: 2px solid #b5b4b4;  position: relative; margin-bottom: 41px;}
+form{ width: 280px; margin-left: 23px;}
+.form p{margin-left:451px; color: #6c6c6c; position: absolute; left: 0px; top: 108px;font-size: 14px;}
+.form p a{color: #4f9bca;}
+.form span{ font-size: 18px;display: block;margin-top: 30px;color: #d3d3d3;}
+.textinput,.passwordinput{ width: 238px; height: 38px; border: 1px solid #ccc;border-radius: 2px; font-size: 14px; line-height: 20px; padding-left: 40px;}
+.textinput{margin-top: 57px;background: url("../images/inputicon01.jpg") no-repeat 12px 10px; }
+.passwordinput{margin-top: 9px;background: url("../images/inputicon02.jpg") no-repeat 12px 10px; }
+.checkboxinput{ margin: 26px 11px 22px 14px}
+.buttoninput{ width: 278px; height: 38px; border: 1px solid #299002;border-radius: 2px; background: #299002;line-height: 38px; color: white;font-size: 18px; font-weight: bold}
+.login2text{margin-left: 116px;color: #999; line-height: 24px;}
+.login2text span{ color: #666;font-size: 18px; margin-bottom: 5px;display: block;}

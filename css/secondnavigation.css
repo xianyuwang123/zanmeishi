@@ -1,0 +1,64 @@
+/*站内导航条*/
+.mainnav p{ font-weight: bold; margin-top: 6px;}
+.mainnav ul{margin-top: 4px;}
+.mainnavUl1{ width: 930px;}
+.mainnavUl1 li{}
+.mainnavUl1 li a{color: black;display:block; width: 40px; height: 20px;text-align: center;line-height: 20px;font-weight: bold;}
+.mainnavUl1 li a.mainnavUlGreen{background-color: #23a700;color:#fff;}
+.mainnavUl2 li a{color: black;display:block; width: 21px; height: 20px;text-align: center;line-height: 20px;font-weight: bold;}
+.mainnavUl2 li a.mainnavUlGreen{background-color: #23a700;color:#fff;}
+.shuxian1{margin: 2px 3px 0px;color: #d1d1d1;}
+.shuxian2{margin: 2px 5px 0px;color: #d1d1d1;}
+.mainSelect{ border-top: 2px solid #333;padding-top: 22px; margin-top: 8px;;}
+
+/*左边内容区*/
+    /*标题*/
+.mainSelectleft{ width: 728px; margin-bottom: 21px;background: #f6f6f6}
+.mainSelectleftTitle p{font-size: 11px; color: #999;display: block;width: 624px;background-color: #e6e6e6; height: 36px; line-height: 36px;padding:0 14px;}
+.mainSelectleftTitle p span{font-size: 24px;}
+.mainSelectleftTitle p a{color: #a3a3a3}
+.mainSelectleftTitleMt{ margin-top: 12px;}
+h5{display: block; width: 76px; height: 36px; background-color: #cc0000;color: #fff;line-height: 36px;text-align: center;font-size: 16px;font-weight: normal;}
+    /*内容*/
+.mainSelectleftText ul{ display: block;width: 700px;height: 363px; background: url("../images/mainSelectleftTextbg.jpg")no-repeat 364px; padding: 14px;}
+.mainSelectleftText ul li a{ display:block; width: 310px;height: 35px;border-bottom: 1px #e3e3e3 dashed;line-height: 35px;color: #268ad8;}
+.mainSelectleftText ul li a span{float: right;color: #a0a0a0;}
+.mainSelectleftText ul li a.mainSelectleftTextUlliML{margin-left: 80px;}
+/*右边SubNav*/
+
+.mainSelectrightTitle{width: 252px; height: 36px; line-height: 36px; background: #333;color: white;font-size: 16px; padding-left: 8px;}
+.mainSelectrightUl1{ width: 260px;padding: 7px 0 17px;background: #eaeaea;}
+.mainSelectrightUl1 li a.Agreenclass{ background: #1f9400; border: 1px solid #1f9400; color: white;}
+.mainSelectrightUl1 li a{display: block; width: 38px;height: 24px; background: #eee; border: 1px solid #e4e4e4;border-radius:2px; line-height: 24px; text-align: center; margin-right:3px; margin-left: 8px;color: #888;margin-top: 10px;}
+
+.mainSelectrightP{ display: block;font-size: 14px; width: 235px;height: 14px;padding: 17px 0 11px 25px; background: url("../images/searchrighticon_.jpg")no-repeat 8px 19px #eaeaea;}
+.mainSelectrightUl2{ width: 234px;padding: 0 0 5px 26px;background: #eaeaea;}
+.mainSelectrightUl2 li a{display: block;width: 40px; height: 26px; border-radius:2px;color:black;line-height: 26px;text-align: center;}
+.mainSelectrightUl2 li a.Agreenclass2{background: #1f9400; color: white;}
+.UlpaddingBottom{ padding-bottom: 18px;}
+.DivmarginTop{margin-top: 12px;}
+
+.instrumenticonUl{width: 260px;background: #eaeaea;height: 377px; padding-top: 2px;}
+.instrumenticonUl li a{display: block;width: 46px;height: 28px;border: 1px solid #ded9d9; line-height: 28px;color: #333;padding-left: 27px;margin-left: 10px; margin-top: 10px;}
+.instrumenticon1{background: url("../images/instrumenticon01.png") no-repeat ;}
+.instrumenticon2{background: url("../images/instrumenticon02.png") no-repeat ;}
+.instrumenticon3{background: url("../images/instrumenticon03.png") no-repeat ;}
+.instrumenticon4{background: url("../images/instrumenticon04.png") no-repeat ;}
+.instrumenticon5{background: url("../images/instrumenticon05.png") no-repeat ;}
+.instrumenticon6{background: url("../images/instrumenticon06.png") no-repeat ;}
+.instrumenticon7{background: url("../images/instrumenticon07.png") no-repeat ;}
+.instrumenticon8{background: url("../images/instrumenticon08.png") no-repeat ;}
+.instrumenticon9{background: url("../images/instrumenticon09.png") no-repeat ;}
+.instrumenticonUl li a.Aredclass{background-color: #cc0000; color:white;}
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,26 @@
+/*站内导航条*/
+.mainnav ul{ margin-top: 2px; background-color: #ededed; margin-left: 12px;}
+.mainnav ul li a{ margin:0px 8px; color: #000;}
+.mainnav ul li img{ margin-top: -2px;}
+
+.mainSelect{ border-top: 2px solid #333;padding-top: 22px; margin-top: 8px;background-color: #dedede;}
+
+/*左边内容区*/
+.mainSelectleft{ width: 740px;;background-color: #f4f4f4;font-size:18px;}
+
+.mainSelectleftP1{font-weight: bold; width: 142px;height: 51px; background-color: #219901; padding-top: 22px; text-align: center}
+.mainSelectleftP1 span{color:#81bd78;font-size: 12px;font-weight: normal;}
+.mainSelectleftP2 span{font-size: 53.26px;}
+.mainSelectleftP2{ width: 153px;height: 56px; background-color: #e6e6e6; font-size: 24px;font-family: Arial;padding-top: 17px;padding-left: 445px;}
+.mainSelectText{ background: url("../images/aboutusselect.jpg") no-repeat;;height: 579px; width: 740px;margin-top: 73px; }
+　/*右边SubNav*/
+.mainSelect ul{ background-color: #dedede; width: 260px; border-top: 1px solid #afafaf;}
+.mainSelect ul li a span{font-size: 8px; display: inline-block; -webkit-transform:scale(0.7);transform-origin: left;;font-family:Arial;margin-left: 10px;}
+.mainSelect ul li a{position: relative; height: 71px; width: 244px; border: 1px solid #afafaf; border-top: none; background-color: #f5f5f5;color: #333333; font-size: 16px; font-style: normal; line-height: 72px;padding-left: 14px;}
+.mainSelect ul li a:hover{background-color: #afafaf}
+.mainSelect ul li .mainrightnav{background-color: #afafaf}
+.mainSelect ul li a .subnavlefticon{display: none}
+.mainSelect ul li a:hover .subnavlefticon{ display:block; }
+.mainSelect ul li .mainrightnav .subnavlefticon{display: block}
+.subnavlefticon{ position: absolute; left:-8px; top:31px;}
+.subnavbg{ position: absolute; left:219px; top:28px;}
